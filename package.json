@@ -1,0 +1,24 @@
+{
+  "name": "reklamodawcabot",
+  "version": "1.0.0",
+  "description": "Bot stworzony aby reklamować, przez *SensuSystems!*",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "reklamodawca"
+  ],
+  "author": "Noodie#6192",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.0.2",
+    "file-system": "^2.2.2",
+    "fs": "0.0.1-security",
+    "mongodb": "^3.5.5",
+    "mysql": "^2.18.1",
+    "node.js": "0.0.1-security",
+    "sql": "^0.78.0"
+  }
+}
